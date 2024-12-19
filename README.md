@@ -6,4 +6,4 @@ This project is a simple website created to introduce **Udemy Education**, a sof
 - **HTML and CSS:** Used to build the structure of the website.  
 - **Bootstrap:** Utilized for responsive design.
 
-  #Screenshot
+
